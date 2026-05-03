@@ -1,5 +1,5 @@
-# Welcome to your Expo app 👋
-# StarVest 🌾🛰️
+
+# StarVest 
 
 Built at DA Hacks 2024
 
